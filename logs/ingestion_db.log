@@ -1,0 +1,13 @@
+2026-04-06 20:15:02,242 - INFO - Starting ingestion for begin_inventory.csv
+2026-04-06 20:15:05,597 - INFO - Successfully ingested begin_inventory.csv into begin_inventory
+2026-04-06 20:15:05,597 - INFO - Starting ingestion for end_inventory.csv
+2026-04-06 20:15:09,939 - INFO - Successfully ingested end_inventory.csv into end_inventory
+2026-04-06 20:15:09,940 - INFO - Starting ingestion for purchases.csv
+2026-04-06 20:16:03,531 - INFO - Successfully ingested purchases.csv into purchases
+2026-04-06 20:16:03,535 - INFO - Starting ingestion for purchase_prices.csv
+2026-04-06 20:16:03,709 - INFO - Successfully ingested purchase_prices.csv into purchase_prices
+2026-04-06 20:16:03,710 - INFO - Starting ingestion for sales.csv
+2026-04-06 20:20:17,305 - INFO - Successfully ingested sales.csv into sales
+2026-04-06 20:20:17,306 - INFO - Starting ingestion for vendor_invoice.csv
+2026-04-06 20:20:17,507 - INFO - Successfully ingested vendor_invoice.csv into vendor_invoice
+2026-04-06 20:20:17,507 - INFO - Ingestion Complete. Total Time: 5.25 minutes
